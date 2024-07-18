@@ -20,9 +20,6 @@ a stipend.
   Explore the dataset and identify the number of rows and columns.Check for missing values in each column and handle them accordingly.
   Perform data type conversion if necessary. Analyze the distribution of the target variable ("Aggregate rating") and identify any class imbalances.
 
-My Work Link :- https://github.com/Aman811630/Data-Science-Internship-at-Cognifyz-Technologies/blob/main/Conifyz_Data_Science_Internship_By_Aman_Singh.ipynb
-
-
 ### Task 02 :- Descriptive Analysis
 
 Calculate basic statistical measures (mean, median, standard deviation, etc.) for numerical columns.
@@ -41,6 +38,8 @@ across different cities or countries.
 Determine if there is any correlation
 between the restaurant's location and its
 rating.
+
+My Work Link :- https://github.com/Aman811630/Data-Science-Internship-at-Cognifyz-Technologies/blob/main/Conifyz_Data_Science_Internship_By_Aman_Singh.ipynb
 
 # Level 02 :
 
