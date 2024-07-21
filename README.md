@@ -73,6 +73,10 @@ Create new features like "Has Table Booking"
 or "Has Online Delivery" by encoding
 categorical variables.
 
+My Work :- https://github.com/Aman811630/Data-Science-Internship-at-Cognifyz-Technologies/blob/main/Level_02_Conifyz_Data_Science_Internship_By_Aman_Singh.ipynb
+
+
+
 # Level 03 :
 
 ### Task 01 :-  Predictive Modeling
