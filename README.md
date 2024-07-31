@@ -113,3 +113,7 @@ Visualize the relationship between various
 features and the target variable to gain insights.
 
 My Work :- https://github.com/Aman811630/Data-Science-Internship-at-Cognifyz-Technologies/blob/main/Level_03_Conifyz_Data_Science_Internship_By_Aman_Singh_ipynb.ipynb
+
+
+
+![Screenshot (96)](https://github.com/user-attachments/assets/bcaa0af4-b258-4339-b33f-12c1b1e7ffcb)
